@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Networking</string>
+    <string name="book_hint">Enter book title</string>
+    <string name="name_button">Search</string>
+    <string name="book_title">The Godfather</string>
+    <string name="book_author">Mario Puzo</string>
+    <string name="book_date">2012–11–30</string>
+    <string name="book_pages">608 pages</string>
+    <string name="book_rating">4.0</string>
+    <string name="name_of_book_please">Name of book please</string>
+    <string name="search">Search</string>
+</resources>
